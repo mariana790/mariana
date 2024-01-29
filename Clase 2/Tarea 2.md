@@ -1,4 +1,4 @@
-**Tarea 1**
+**Tarea 2**
 ### Instrucciones
 1. Convierte tu base de datos no estructurada en un modelo entidad-relación, representándolo con un diagrama de entidad-relación. Usa nodos con figuras correctas y aristas claramente señaladas con los números correspondientes para las relaciones.
 2. Muestra el dominio de los atributos.
