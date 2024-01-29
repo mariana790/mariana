@@ -4,7 +4,7 @@
 2. Muestra el dominio de los atributos.
 3. Subir esta descripción en un archivo markdown o PDF nombrado claramente.
 
-### Diagrama entidad-relación
+### Diagrama entidad-relación (PDF)
 *Relaciones*
 1. Un programa puede tener varios proyectos.
 1. Un proyecto solo puede tener un programa.
@@ -30,4 +30,8 @@
 8. Una mutación en específico puede estar en varios pacientes.
 8. Un paciente solo puede tener esa mutación
 
-
+### Diagrama entidad-relación 2 (PNG)
+*Relaciones*
+1. Un tipo de muestra puede estar en varios pacientes, pero un paciente solo puede tener un tipo de muestra.
+2. Una mutación en específico puede estar en varios pacientes, peroo un paciente solo puede tener esa mutación.
+3. Un paciente puede tener varias mutaciones en específico, pero esas mutaciones solo están en un único paciente. 
