@@ -7,17 +7,17 @@
 
 ### Representación del diagrama relacional
 
-Área geográfica (*ID del estado*, nombre del estado, nombre de los municipios del estado, ID del municipio_municipio)
+- Área geográfica (*ID del estado*, nombre del estado, nombre de los municipios del estado, ID del municipio_municipio)
 
-Municipio (*ID del municipio*, municipio)
+- Municipio (*ID del municipio*, municipio)
 
-Subsector (*ID del subsector*, subsector)
+- Subsector (*ID del subsector*, subsector)
 
-Rama (*ID de la rama*, rama)
+- Rama (*ID de la rama*, rama)
 
-Clase (*ID de la clase*, clase)
+- Clase (*ID de la clase*, clase)
 
-Sector económico (*ID de la actividad económica*, nombre de la actividad económica, ID del subsector_subsector, ID de la rama_rama, ID de la clase_clase)
+- Sector económico (*ID de la actividad económica*, nombre de la actividad económica, ID del subsector_subsector, ID de la rama_rama, ID de la clase_clase)
 
 - Empresas (*ID de la empresa*, nombre, inversión total, producción bruta total, personal ocupado total, personal ocupado total, remuneraciones, gastos por consumo de bienes y servicios, ingresos por suministro de bienes y servicios, activos fijos, ID del estado_área geográfica, ID de la actividad económica_sector económico)
 
