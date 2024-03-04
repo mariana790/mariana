@@ -9,3 +9,4 @@
 
 2. Haz un ejemplo de cada una de estas consultas
 
+Las funciones a calcular se encuentran en [Clase 6](Tarea_6.sql) 
